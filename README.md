@@ -2,9 +2,15 @@
 
 Welcome to my public repository where I'm uploading all my hands-on practice as I learn CCNA.
 
-📚 Topics Covered Basic Device security 🛠️ Tools Used
+📚 Topics Covered
 
-Cisco Packet Tracer 📌 About Me
+- [x]Basic Device security
+
+🛠️ Tools Used
+
+- Cisco Packet Tracer
+
+📌 About Me
 
 👨‍💻 Final Year B.Tech Student | Cybersecurity Learner
 
