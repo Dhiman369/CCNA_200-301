@@ -4,7 +4,7 @@ Welcome to my public repository where I'm uploading all my hands-on practice as 
 
 📚 Topics Covered
 
-- [x]Basic Device security
+- [x] Basic Device security
 
 🛠️ Tools Used
 
