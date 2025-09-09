@@ -1,6 +1,6 @@
 # 🚀 CCNA Lab Series
 
-Welcome to my public repository where I'm uploading all my hands-on practice as I learn CCNA.
+Welcome to my public repository where I'm uploading all my hands-on and guided practice labs as I learn CCNA.
 
 📚 Topics Covered
 
